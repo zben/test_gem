@@ -1,6 +1,6 @@
 # PeriodicTable
 
-TODO: Write a gem description
+this will be filled up
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+this will be filled up
 
 ## Contributing
 
